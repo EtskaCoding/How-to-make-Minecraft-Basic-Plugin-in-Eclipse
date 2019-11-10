@@ -30,4 +30,4 @@ Click Finish
 Your Project is now open
 Okey lets write in line 3
 Your line 3 should look like this **public class main extends JavaPlugin {**
-Press ctrl sift 
+Press ctrl + shift + o to import JavaPlugin
