@@ -31,3 +31,23 @@ Your Project is now open
 Okey lets write in line 3
 Your line 3 should look like this **public class main extends JavaPlugin {**
 Press ctrl + shift + o to import JavaPlugin
+
+Press your project with mouse right button
+Select New > File
+Name it **plugin.yml**
+
+Write this text in plugin.yml
+name: (Your Plugin Name)
+main: (Your Package Name).(Your Main Class Name)
+version: (Plugin version)
+author: (Your name)
+description: (Plugin Description)
+
+Plugin exporting
+Press your project with mouse right button
+Press Export > Java > JAR File
+Click Next
+Select import location
+Click Finish
+
+Ready :)
