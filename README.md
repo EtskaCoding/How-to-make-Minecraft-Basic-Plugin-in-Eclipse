@@ -28,3 +28,6 @@ Name Class to Your class name (Example Main or Core)
 Click Finish
 
 Your Project is now open
+Okey lets write in line 3
+Your line 3 should look like this **public class main extends JavaPlugin {**
+Press ctrl sift 
