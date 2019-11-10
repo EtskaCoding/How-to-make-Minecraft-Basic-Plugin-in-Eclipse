@@ -29,7 +29,7 @@ Click Finish
 
 Your Project is now open
 Okey lets write in line 3
-Your line 3 should look like this **public class main extends JavaPlugin {**
+Your line 3 should look like this **public class (Your Class) extends JavaPlugin {**
 Press ctrl + shift + o to import JavaPlugin
 
 Press your project with mouse right button
