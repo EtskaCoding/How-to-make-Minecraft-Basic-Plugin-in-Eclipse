@@ -13,7 +13,7 @@ Put Spigot in folder
 Go to Eclipse IDE
 Right click a project folder
 Select Properties > Java Build Path >  Add External JARs
-And go our spigot folder and add it
+And go our spigot folder and add it.
 Click Apply And Close
 
 Douple click your project
